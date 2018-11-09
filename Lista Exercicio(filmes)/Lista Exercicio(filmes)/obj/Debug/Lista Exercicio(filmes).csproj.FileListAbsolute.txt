@@ -1,0 +1,11 @@
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\bin\Debug\Lista Exercicio(filmes).exe.config
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\bin\Debug\Lista Exercicio(filmes).exe
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\bin\Debug\Lista Exercicio(filmes).pdb
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista Exercicio(filmes).csprojAssemblyReference.cache
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista_Exercicio_filmes_.Form1.resources
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista_Exercicio_filmes_.Properties.Resources.resources
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista_Exercicio_filmes_.Visualizacao.resources
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista Exercicio(filmes).csproj.GenerateResource.cache
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista Exercicio(filmes).csproj.CoreCompileInputs.cache
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista Exercicio(filmes).exe
+C:\Users\C4rds\source\repos\Lista Exercicio(filmes)\Lista Exercicio(filmes)\obj\Debug\Lista Exercicio(filmes).pdb
